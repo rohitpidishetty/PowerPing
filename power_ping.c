@@ -120,7 +120,7 @@ int main(void)
 {
     /*
      * Compile:
-     * gcc overcharge_notifier.c -o a.exe -lcurl -lcjson
+     * gcc power_ping.c -o a.exe -lcurl -lcjson
      */
 
     SYSTEM_POWER_STATUS status;
